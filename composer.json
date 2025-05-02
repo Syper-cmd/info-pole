@@ -1,0 +1,16 @@
+{
+    "name": "itpopa/tasker",
+    "description": "The aplication for CRUD with tasks",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.20",
+      "ext-mysqli": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ITPopa"
+        }
+    ],
+    "minimum-stability": "stable"
+}
